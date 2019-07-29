@@ -1,4 +1,6 @@
 /Backup/.
 .ipynb_checkpoints
+.DS_Store
 __pycache__
 K-Means_Clustering_Interactive_Visualization_Test.ipynb
+Readme.txt
