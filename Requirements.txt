@@ -1,0 +1,15 @@
+# REQUIRED PACKAGES
+
+# DASH
+dash==0.42.0
+Dash-daq==0.1.0
+
+# PLOTLY
+plotly==3.8.1
+
+# SCIPY STACK
+numpy==1.16.2
+scikit-learn==0.20.3
+scipy==1.2.1
+
+
